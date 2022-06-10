@@ -17,7 +17,7 @@ Um supermercado da cidade de Campina Grande precisa de um sistema que gerencie o
 - Eu, como administrador, gostaria de atualizar as informações de um lote no sistema, a partir de seu id;
 - Eu, como administrador, gostaria de remover um lote já cadastrado no sistema, a partir de seu id;
 - Eu, como usuário, gostaria de consultar todos os lotes do catálogo do supermercado;
-- 
+
 ## Estrutura básica
 
 - Um projeto: MercadoFacil;
