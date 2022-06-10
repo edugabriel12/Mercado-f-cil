@@ -1,5 +1,6 @@
 # Mercado Fácil
 Implementação feita por mim a partir do modelo do professor Fábio Jorge Almeida Morais 
+
 Um supermercado da cidade de Campina Grande precisa de um sistema que gerencie o estoque e venda de produtos na sua loja. Neste sistema, o administrador deve obter uma visão geral e o controle sobre o funcionamento do supermercado, por exemplo, ele deve poder adicionar novos produtos, acompanhar quantas unidades do produto estão disponíveis, alterar preços, ser notificado sobre eventos críticos, gerenciar as vendas e oferecer alguns serviços personalizados para o cliente.
 
 ## User Stories já implementadas
